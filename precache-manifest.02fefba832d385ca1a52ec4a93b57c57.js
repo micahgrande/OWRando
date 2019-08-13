@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1ea557b03a1e5ac58c603705c20b032",
+    "revision": "88dfac474b062e1feedd374a865fdab8",
     "url": "/OWRando/index.html"
   },
   {
-    "revision": "5248760057dc2ee803e2",
+    "revision": "9a02b79e3fc8cb27077b",
     "url": "/OWRando/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/OWRando/static/js/2.d042e1ad.chunk.js"
   },
   {
-    "revision": "5248760057dc2ee803e2",
-    "url": "/OWRando/static/js/main.c55e972f.chunk.js"
+    "revision": "9a02b79e3fc8cb27077b",
+    "url": "/OWRando/static/js/main.fc65dab7.chunk.js"
   },
   {
     "revision": "26467eb97720cd2231df",
