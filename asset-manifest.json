@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OWRando/static/css/main.2cce8147.chunk.css",
+    "main.js": "/OWRando/static/js/main.c55e972f.chunk.js",
+    "main.js.map": "/OWRando/static/js/main.c55e972f.chunk.js.map",
+    "runtime~main.js": "/OWRando/static/js/runtime~main.c301ca4e.js",
+    "runtime~main.js.map": "/OWRando/static/js/runtime~main.c301ca4e.js.map",
+    "static/js/2.d042e1ad.chunk.js": "/OWRando/static/js/2.d042e1ad.chunk.js",
+    "static/js/2.d042e1ad.chunk.js.map": "/OWRando/static/js/2.d042e1ad.chunk.js.map",
+    "index.html": "/OWRando/index.html",
+    "precache-manifest.78f5cc5e1f53a24179c5a3384329c4c6.js": "/OWRando/precache-manifest.78f5cc5e1f53a24179c5a3384329c4c6.js",
+    "service-worker.js": "/OWRando/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/OWRando/static/css/main.2cce8147.chunk.css.map"
+  }
+}
